@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Assets/Editor/TimeLineEditor/InSpectorWindow.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Editor/TimeLineEditor/Styles.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/Editor/TimeLineEditor/TimeLineWindow.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/TimeLineRunTime/AnimationPlayableClip.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/TimeLineRunTime/AnimationTrack.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/TimeLineRunTime/CameraPlayableClip.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/TimeLineRunTime/CameraTrack.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/TimeLineRunTime/PlayableClip.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/TimeLineRunTime/PlayableTrack.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/TimeLineRunTime/Sequnce.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/TimeLineRunTime/TimeLine.cs" charset="UTF-8" />
+  </component>
+</project>
